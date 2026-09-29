@@ -1,3 +1,7 @@
+## HYPOTHESIS
+
+What if: We had a monetary universe represented as fixed proportions of a single immutable whole U=1 may produce qualitatively different economic behaviour than conventional fixed-supply currencies. Specifically, ownership-as-relationship might affect valuation, growth representation, and dynamics when goods and productivity change.
+
 BF¢-I — ButterflyCoin: Closed Universe
 
 This repository contains a deterministic lab for the BF¢-I experiment: a fixed monetary universe where holdings are proportions of a single immutable whole.
